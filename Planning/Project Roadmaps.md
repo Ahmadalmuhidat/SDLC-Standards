@@ -1,0 +1,1 @@
+**use JIRA software for the planning phase, there you can define the project roadmap and assign tasks with every phase**
