@@ -1,0 +1,1 @@
+This document provides the proposed solution for the client's needs.
