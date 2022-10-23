@@ -1,1 +1,0 @@
-****use this document to explain the control functionality of the system for the system admin and what privileges he has****
