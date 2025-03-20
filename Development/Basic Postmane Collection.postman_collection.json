@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "0a7ccbdc-40cf-4b90-8e54-5044c44bc60d",
+		"name": "Basic Postmane Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "43265771",
+		"_collection_link": "https://lunar-robot-52166.postman.co/workspace/0aa73777-187e-4588-845e-3ea496a98249/collection/43265771-0a7ccbdc-40cf-4b90-8e54-5044c44bc60d?action=share&source=collection_link&creator=43265771"
+	},
+	"item": [
+		{
+			"name": "Object Title",
+			"item": [
+				{
+					"name": "Endpoint Title",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"pm.test(\"Status code is 201\", () => pm.response.to.have.status(201))",
+									"",
+									"pm.test('Content-Type header is correct', () => pm.response.to.have.header('Content-Type', 'text/plain; charset=utf-8'))"
+								],
+								"type": "text/javascript",
+								"packages": {}
+							}
+						},
+						{
+							"listen": "prerequest",
+							"script": {
+								"exec": [
+									"",
+									"",
+									""
+								],
+								"type": "text/javascript",
+								"packages": {}
+							}
+						}
+					],
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "{{baseURL}}/route"
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

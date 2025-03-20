@@ -1,1 +1,0 @@
-**use draw.io to design database structure**
