@@ -1,0 +1,48 @@
+### 1. Title (Summary)
+Keep it short, descriptive, and action-oriented.  
+✅ **Example**: “Refactor object interactions to follow OOP principles in attendance module”
+
+---
+
+#### 2. Description
+Explain the task in detail, including the purpose, scope, and any technical context.  
+
+✅ **Example**:  
+We need to refactor the current attendance module to follow Object-Oriented Programming (OOP) principles.  
+Currently, the system uses static methods and global objects, which reduces maintainability and testability.
+
+**Goals**:
+- Each object (Student, Teacher, Class, etc.) should be defined as a class.
+- All interactions must happen through object instances.
+- Update the project structure to align with desktop software standards.
+
+**Current Behavior**:  
+Static methods are used across modules, leading to tight coupling and difficulty in extending the functionality.
+
+**Expected Outcome**:
+- Each functional unit is encapsulated in a class.
+- Static method calls are removed.
+- Improved code modularity and readability.
+
+---
+
+### 3. Acceptance Criteria
+List the measurable outcomes to consider the ticket "done."  
+
+✅ **Example**:
+- Each core component has its own class.
+- Static functions are refactored into instance methods.
+- Code follows OOP best practices.
+- Project structure is updated and verified.
+
+---
+
+### 4. Attachments / References (Optional)
+Link related tickets, designs, documentation, or screenshots.
+
+---
+
+### 5. Labels / Components / Assignee
+- Add relevant labels like `refactor`, `backend`, `OOP`, etc.
+- Assign to the appropriate team or person.
+- Add the component if it's tied to a specific module.
