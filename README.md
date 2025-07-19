@@ -45,6 +45,7 @@ For each phase of the SDLC, there are predefined templates that must be filled o
 - [Planning](Planning/)
 - [Design](Design/)
 - [Development](Development/)
+- [Deployment](Deployment/)
 
 ## 🚀 How to Use This Repository
 
