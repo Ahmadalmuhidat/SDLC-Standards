@@ -6,6 +6,7 @@ This repository contains my own Software Development Life Cycle (SDLC), which I 
 - **Development**
 - **Testing**
 - **Deployment**
+
 Each phase is crucial to ensuring a successful software development process, and this SDLC has been customized to ensure efficiency, collaboration, and high-quality software delivery.
 
 ## SDLC Phases
