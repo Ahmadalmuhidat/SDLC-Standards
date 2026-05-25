@@ -1,6 +1,5 @@
 # My Custom Software Development Life Cycle (SDLC)
 This repository contains my own Software Development Life Cycle (SDLC), which I have built and refined through extensive work experience. The SDLC follows a structured approach covering the essential phases of:
-- **Business**
 - **Planning**
 - **Designing**
 - **Development**
