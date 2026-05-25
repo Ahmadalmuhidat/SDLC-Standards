@@ -27,14 +27,6 @@ After successful testing, the software is released into the production environme
 ## Documentation
 The file `SDLC.docx` explains each phase in detail and provides guidance on how to navigate through the SDLC. It describes the purpose of each phase, the expected outcomes, and best practices to follow for each step in the lifecycle.
 
-## Templates
-For each phase of the SDLC, there are predefined templates that must be filled out to document decisions, milestones, and deliverables. These templates ensure consistent and comprehensive documentation throughout the lifecycle of the project.
-- [Business](Business/)
-- [Planning](Planning/)
-- [Design](Design/)
-- [Development](Development/)
-- [Deployment](Deployment/)
-
 ## How to Use This Repository
 1. Start by reviewing the `SDLC.docx` document to understand the detailed process for each phase.
 2. Use the provided templates to document each phase of your project.
