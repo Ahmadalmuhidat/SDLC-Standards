@@ -1,9 +1,9 @@
-# 📌 Project Name  
+# Project Name  
 *A concise, compelling summary of what your project does and why it matters.*
 
 ---
 
-## 🚀 Features  
+## Features  
 Core functionalities of the project:
 
 - Feature 1: [Brief description]  
@@ -12,7 +12,7 @@ Core functionalities of the project:
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 Technologies and tools used in this project:
 
 - Python 3.11  
@@ -22,7 +22,7 @@ Technologies and tools used in this project:
 
 ---
 
-## ⚙️ Installation  
+## Installation  
 Step-by-step instructions to set up the project locally:
 
 1. **Clone the repository**  
@@ -44,18 +44,18 @@ Step-by-step instructions to set up the project locally:
 ---
 
 ## Usage
-▶️ Run Locally
+Run Locally
 ```bash
 python main.py
 ```
-🐳 Using Docker
+Using Docker
 ```bash
 docker-compose up --build
 ```
 
 ---
 
-## ✅ Running Tests
+## Running Tests
 To execute the test suite, use:
 ```bash
 pytest
@@ -64,7 +64,7 @@ Or your preferred testing framework.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```bash
 project/
 │
@@ -77,7 +77,7 @@ project/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 We welcome contributions! Here's how to get started:
 
 1. Fork the repository
@@ -91,14 +91,14 @@ Please follow the CONTRIBUTING.md for more details.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 © [Your Name]
 
 ---
 
-##  📚 Additional Documentation
+## Additional Documentation
 
 For larger projects, include detailed guides in the docs/ folder:
 
